@@ -1,10 +1,10 @@
-## 🌳 Assignment 3: Plants Dataset (PyTorch for Deep Learning)
+## PyTorch for Deep Learning (Deeplearning.ai Course)
 
-This repository holds my work for **Assignment 3** from the **PyTorch for Deep Learning** course by Deeplearning.ai. I created this repository to maintain an organized and cleaner environment while progressing through the course.
+This repository holds my work for all assignments and labs from the **PyTorch for Deep Learning** course by Deeplearning.ai. I created this repository to maintain an organized and cleaner environment while progressing through the course.
 
 ---
 
-### 💾 Dataset Download
+### 💾 Dataset Download for **Assignment 3**
 
 You can download the dataset used in this assignment from the link below.
 
