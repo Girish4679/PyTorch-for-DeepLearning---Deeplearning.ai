@@ -8,7 +8,7 @@ This repository holds my work for **Assignment 3** from the **PyTorch for Deep L
 
 You can download the dataset used in this assignment from the link below.
 
-* **Download:** [Download plants\_dataset.zip](https://download-link-for-plants-dataset-here)
+* **Download:** [Download plants\_dataset.zip](https://github.com/Girish4679/PyTorch-for-DeepLearning---Deeplearning.ai/releases/tag/plants-dataset)
 
 **Note:** Please **extract the zip file** into your project directory before running the accompanying notebook or scripts.
 
