@@ -219,3 +219,4 @@ Labs/Lab_4_2/dataset/
 Assignments/Overcoming_Overfitting/cifar_100/
 Labs/Labs_5/Hyperparameter_Tuning/cifar10
 Labs/Labs_5/Hyperparameter_Tuning/cifar10_3class_imbalanced
+Labs/Labs_5/Schedulers_In_PyTorch/cifar10
