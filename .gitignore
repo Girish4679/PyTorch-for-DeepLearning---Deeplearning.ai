@@ -222,3 +222,4 @@ Labs/Labs_5/Hyperparameter_Tuning/cifar10_3class_imbalanced
 Labs/Labs_5/Schedulers_In_PyTorch/cifar10
 Labs/Labs_5/Hyperparameter_Optimization_Optuna/cifar10
 Labs/Labs_5/Hyperparameter_Optimization_Optuna/apple_ad_subset
+Labs/Labs_5/Efficiency_vs_Performance_Metrics/cifar10
