@@ -206,6 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Etc. files
+Conditioning_Interview_Practice/
 
 # Unnecessary files
 Learn_PyTorch/
@@ -225,3 +227,4 @@ Labs/Labs_5/Hyperparameter_Optimization_Optuna/apple_ad_subset
 Labs/Labs_5/Efficiency_vs_Performance_Metrics/cifar10
 Assignments/Building_AI_Detect_AI_Generated_Images/AIvsReal_sampled/
 Labs/Labs_6/TorchVision_For_Preprocessing/oxford3pet_data/
+Labs/Labs_6/TorchVision_Datasets/pytorch_datasets/
