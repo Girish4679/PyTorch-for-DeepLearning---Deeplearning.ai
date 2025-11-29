@@ -229,3 +229,6 @@ Assignments/Building_AI_Detect_AI_Generated_Images/AIvsReal_sampled/
 Labs/Labs_6/TorchVision_For_Preprocessing/oxford3pet_data/
 Labs/Labs_6/TorchVision_Datasets/pytorch_datasets/
 Labs/Labs_6/Transfer_Learning_Strategies/EMNIST_data/
+Assignments/FakeFinder_With_Transfer_Learning/AIvsReal_sampled
+Assignments/FakeFinder_With_Transfer_Learning/mobilenet_weights
+Assignments/FakeFinder_With_Transfer_Learning/best_model_saved
