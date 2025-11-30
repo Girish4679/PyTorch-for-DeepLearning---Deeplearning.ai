@@ -1,6 +1,6 @@
 numpy==2.3.2
-torch==2.6.0
-torchvision==0.21.0
+torch==2.7.0
+torchvision==0.22.0
 matplotlib==3.9.0
 pillow==11.3.0
 scikit-learn==1.6.1
@@ -13,3 +13,4 @@ scipy==1.16.2
 torchmetrics==1.7.2
 optuna==4.3.0
 pandas==2.2.3
+transformers==4.52.4
