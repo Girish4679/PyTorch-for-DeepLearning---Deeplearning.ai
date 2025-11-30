@@ -236,3 +236,4 @@ Labs/Labs_7/Embeddings/glove_data/
 Labs/Labs_7/Embeddings/bert_model/
 Labs/Labs_7/Building_Simple_Text_Classifier/recipes_fruit_veg.csv
 Labs/Labs_7/Building_Simple_Text_Classifier/f1_score_comparison.png
+Labs/Labs_7/Finetuning_Pretrained_Text_Classifier/distilbert-local-base
