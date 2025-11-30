@@ -232,3 +232,5 @@ Labs/Labs_6/Transfer_Learning_Strategies/EMNIST_data/
 Assignments/FakeFinder_With_Transfer_Learning/AIvsReal_sampled
 Assignments/FakeFinder_With_Transfer_Learning/mobilenet_weights
 Assignments/FakeFinder_With_Transfer_Learning/best_model_saved
+Labs/Labs_7/Embeddings/glove_data/
+Labs/Labs_7/Embeddings/bert_model/
